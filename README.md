@@ -28,7 +28,7 @@
 
 #### love onshape man
 
-## BOM
+## Bill of materials
 #### here's the scary part 
 
 ### ESP32-C3 DEVBOARD 129 PHP
