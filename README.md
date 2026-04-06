@@ -46,5 +46,5 @@
 
 ### 1.3 tft 128php                                                                                                                 https://shopee.ph/TFT-Display-0.96-1.3-1.44-Inch-IPS-7P-SPI-HD-65K-Full-Color-LCD-Module-ST7735-Drive-IC-80*160-(Not-OLED)-For-Arduino-i.580325202.13990205071?xptdk=629cae34-64aa-42a3-b843-da57a0498d56
 
-### jlcpcb - calculating
+### jlcpcb - 3.50 usd
 
