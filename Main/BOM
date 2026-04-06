@@ -1,36 +1,3 @@
-# OrphBeatPad - A custom/open source Beat pad with awesome design!
-
-<img src = "Main/Zine/Orphpad Zine final.png">
-
-### when its assembled
-
-
-#### I wanted to make an custom beat pad that you can plug in into your computer and its good to go!
-#### I would say the motivation was discovering FRS Sensors and bc i love hardware too much.
-#### It Exists since i want to get started with making MIDI Stuff and see how much it can cost!
-#### This project is basicaly a beat pad that can sense how hard are you tapping the pads and, BUT the most special part about this is its OPEN SOURCE! "yippeee"
-
-### Schematic
-<img width="911" height="522" alt="image" src="https://github.com/user-attachments/assets/471a3c43-40d0-4f92-910b-6fb9abbc547f" />
-
-### PCB 
-#### look at that clean routinggg 🤤
-<img width="478" height="441" alt="image" src="https://github.com/user-attachments/assets/0aa0f6f1-2e09-4d78-b614-af170736b201" />
-
-
-
-### "pcb render"
-<img width="576" height="599" alt="image" src="https://github.com/user-attachments/assets/760b6404-d7f1-4e7a-88cc-4b360402edee" />
-<img width="576" height="599" alt="image" src="https://github.com/user-attachments/assets/2bba28ba-c7e9-4f3a-bb7e-d0d6e75b8854" />
-
-### CAD
-<img width="580" height="494" alt="image" src="https://github.com/user-attachments/assets/8345a8b5-25f8-4d7d-bb10-e3ee29105eb8" />
-
-#### love onshape man
-
-## How to build it
-### a project thats been wating to be funded so it will relese soon!
-
 ## Bill of materials
 #### here's the scary part 
 
@@ -49,5 +16,4 @@
 
 ### 1.3 tft 128php                                                                                                                 https://shopee.ph/TFT-Display-0.96-1.3-1.44-Inch-IPS-7P-SPI-HD-65K-Full-Color-LCD-Module-ST7735-Drive-IC-80*160-(Not-OLED)-For-Arduino-i.580325202.13990205071?xptdk=629cae34-64aa-42a3-b843-da57a0498d56
 
-### jlcpcb - 3.50 usd
-
+### jlcpcb - calculating
