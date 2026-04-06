@@ -1,5 +1,7 @@
 # OrphBeatPad - A custom/open source Beat pad with awesome design!
 
+<img src = "Main/Zine/Orphpad Zine final.png">
+
 ### when its assembled
 
 
