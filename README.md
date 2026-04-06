@@ -28,6 +28,9 @@
 
 #### love onshape man
 
+## How to build it
+### a project thats been wating to be funded so it will relese soon!
+
 ## Bill of materials
 #### here's the scary part 
 
