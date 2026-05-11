@@ -8,6 +8,8 @@
 #### It Exists since i want to get started with making MIDI Stuff and see how much it can cost!
 #### This project is basicaly a beat pad that can sense how hard are you tapping the pads and, BUT the most special part about this is it has integrated esp32-s3-wroom 1 🫣
 
+#### Notes:
+-The FSR Sensors Does not use a breakout board!
 ### Schematic
 
 #### New Schematic
