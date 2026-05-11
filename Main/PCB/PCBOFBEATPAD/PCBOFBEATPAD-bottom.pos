@@ -1,0 +1,25 @@
+### Footprint positions - created on 2026-05-08T10:29:07+0800 ###
+### Printed by KiCad version 9.0.7-9.0.7~ubuntu25.04.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                                           PosX       PosY       Rot  Side
+R1        10k       R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   126.0050   -93.3050  180.0000  bottom
+R2        10k       R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   160.2425   -91.5800  180.0000  bottom
+R3        10k       R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    92.8550  -118.6300  180.0000  bottom
+R4        10k       R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   125.4800  -118.9800  180.0000  bottom
+R5        10k       R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   159.4550  -118.6300  180.0000  bottom
+R6        10k       R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   159.5800  -146.6300  180.0000  bottom
+R7        10k       R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   126.4425  -147.3300  180.0000  bottom
+R8        10k       R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    92.6800  -146.3050  180.0000  bottom
+R10       10k       R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    93.4925   -92.1300  180.0000  bottom
+U1        ~         2_pin_connector                               102.6075   -82.8200  180.0000  bottom
+U2        ~         analog_16_multiplexer_module                   82.9750   -74.6900   90.0000  bottom
+U3        ~         2_pin_connector                               136.2575   -83.3200  180.0000  bottom
+U5        ~         2_pin_connector                               169.8825   -83.4950  180.0000  bottom
+U6        ~         2_pin_connector                               102.4825  -111.0450  180.0000  bottom
+U7        ~         2_pin_connector                               135.7325  -111.4450  180.0000  bottom
+U8        ~         2_pin_connector                               169.7625  -110.9700  180.0000  bottom
+U9        ~         2_pin_connector                               169.2325  -139.2950  180.0000  bottom
+U10       ~         2_pin_connector                               135.2575  -139.9700  180.0000  bottom
+U11       ~         2_pin_connector                               102.6575  -139.2950  180.0000  bottom
+## End
