@@ -1,7 +1,7 @@
 # OrphBeatPad - A custom/open source Beat pad with awesome design!
 ## V2 IS OUT!! 
 <img src = "Main/Zine/Orphpad Zine final (1).png">
-### PDF is available in Zine folder!
+- PDF is available in Zine folder!
 
 #### I wanted to make an custom beat pad that you can plug in into your computer and its good to go!
 #### I would say the motivation was discovering FRS Sensors and bc i love hardware too much.
@@ -9,7 +9,10 @@
 #### This project is basicaly a beat pad that can sense how hard are you tapping the pads and, BUT the most special part about this is it has integrated esp32-s3-wroom 1 🫣
 
 #### Notes:
--The FSR Sensors Does not use a breakout board!
+- The FSR Sensors Does not use a breakout board!
+- we will be ussing flush cutters so we can fit things nicely!
+- We will use a combination of reflow and manual soldering.
+
 ### Schematic
 
 #### New Schematic
@@ -26,9 +29,10 @@
 ### "pcb render"
 
 #### New Version
-<img width="756" height="581" alt="image" src="https://github.com/user-attachments/assets/e087e224-779a-4b91-8da8-0815f6ecaf98" />
-<img width="1026" height="565" alt="image" src="https://github.com/user-attachments/assets/f7c78218-0b33-4cec-bd79-80d853da78a6" />
+<img width="662" height="586" alt="image" src="https://github.com/user-attachments/assets/3c47f53e-e7d8-4cb5-95c0-05ff7a47f48c" />
+<img width="662" height="586" alt="image" src="https://github.com/user-attachments/assets/eca2f6a5-ba23-44d6-957e-c0a011b33e23" />
 
+- couldn't find a FSR sensor thats bent sorry!
 
 ### CAD
 <img width="572" height="406" alt="image" src="https://github.com/user-attachments/assets/027f38e3-c416-4a33-981e-bfad81726aa9" />
