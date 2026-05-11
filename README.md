@@ -41,7 +41,9 @@
 
 
 ### CAD
+<img width="572" height="406" alt="image" src="https://github.com/user-attachments/assets/027f38e3-c416-4a33-981e-bfad81726aa9" />
 
+- Onshape Link https://cad.onshape.com/documents/ce0d6d23ca34879564001471/w/3b900ad8676028993156f6d1/e/086cec854ef049c97401a80d?renderMode=0&uiState=6a017598b3c539e8ea611fcd
 
 
 #### i love onshape man
