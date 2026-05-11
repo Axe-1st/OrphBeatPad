@@ -44,6 +44,17 @@
 
 ## How to build it
 ### a project thats been wating to be funded so it will relese soon!
+#### But don't worry i can give you a rough idea how to make it!
+
+- Step 1 Make sure all of your materials are ready such as (PCB, Stencil, Compoments, Hot Plate) if not don't worry as you can buy the compoments online from digikey and Jlcpcb! Check the BOM cause it has links!
+
+- Step 2 Align the Stencil and spread solder Paste
+
+- Step 3 Gently remove the stencil then place all of your compoments to reflow it at the hot plate! (you can use a soldering iron if you think you can do it!) a little tip when placing start from smallest to biggest!\
+
+- Step 4 Reflow the board by making sure that the esp32 is in the middle! 
+
+- Step 5 Now the Reflow is done start adding the compoments that need manual hand soldering, such as: Sk-mini-e, 16 channel Swicher
 
 ## Bill of materials
 ### check Bom.csv
