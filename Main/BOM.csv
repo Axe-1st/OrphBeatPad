@@ -1,9 +1,24 @@
-Product,Link,Price PHP,Price USD,Current USD Price
-ESP32-C3 DEVBOARD,https://shopee.ph/ESP32-SuperMini-Development-Board-ESP32-C3-ESP32-S3-ESP32-C6-ESP32-H2-Development-Board-ESP32-Development-Board-WiFi-,$130.00,$2.15,60.41
-Silicon sheet,Translucent Silicone Rubber Sheet Plate Mat High Temperature Resistant Clear Gasket Thick 0.5 1 2 3 4 5mm | Shopee Philippines,$100.00,$1.66,60.41
-SK MINI 6812 1 SET,https://shopee.ph/10PCS-SK6812-MINI-E-RGB-(Similar-WS2812B)-SK6812-3228-SMD-Pixels-LED-Chip-Individually-Addressable-i.672422012.12275127933?xptdk=cc7c870d-b98e-4348-b32d-3987a479c860,$30.00,$0.50,60.41
-Connector,https://shopee.ph/2.54MM-R-A-Double-Row-Female-2~40P-PCB-Board-Right-Angle-Pin-Header-Socket-Connector-Pinheader-2*-4-6-10-20-40-Pin-For-Arduino-i.1130255612.20495632901?xptdk=680b596d-4ea1-4607-afbe-44d831f38856,$69.00,$1.14,60.41
-Force resistive sensors ,https://shopee.ph/FSR402-RFP602-Resistive-Thin-Film-Pressure-Sensor-Module-Force-Sensitive-Resistor-Board-RFP602-1KG-2KG-5KG-Weighing-Voltage-Conversion-Module-i.425178766.43968062580?xptdk=3fe39e8b-087d-40ba-bc6d-d9debe90a973,"$1,197.00",$19.81,60.41
-16 channel switcher,https://shopee.ph/CD74HC4067-16-Channel-Analog-Digital-Multiplexer-Breakout-Board-Module-For-Arduino-i.266699902.22751563093?xptdk=f2b7bf51-bd6a-4dc2-b9f7-2ef969651f4c,$65.00,$1.08,60.41
-1.3 tft,https://shopee.ph/TFT-Display-0.96-1.3-1.44-Inch-IPS-7P-SPI-HD-65K-Full-Color-LCD-Module-ST7735-Drive-IC-80*160-(Not-OLED)-For-Arduino-i.580325202.13990205071?xptdk=629cae34-64aa-42a3-b843-da57a0498d56,$128.00,$2.12,60.41
-JLCPCB,https://jlcpcb.com/,$0.00,$5,60.41
+Product,Link,Quantity,Price USD,total
+ESP32-S3-WROOM-1,https://jlcpcb.com/partdetail/3198295-ESP32_S3_WROOM_1N4/C2913197,1,$4.49,$4.49
+Silicon sheet,Translucent Silicone Rubber Sheet Plate Mat High Temperature Resistant Clear Gasket Thick 0.5 1 2 3 4 5mm | Shopee Philippines,1,$1.64,$1.64
+LESD5D5.0CT1G,https://jlcpcb.com/partdetail/LRC-LESD5D50CT1G/C383211,10,$0.40,$4.00
+1N5819HW-7-F,https://jlcpcb.com/partdetail/DiodesIncorporated-1N5819HW_7F/C82544,2,$0.04,$0.08
+FSR Sensors,https://shopee.ph/FSR402-RFP602-Resistive-Thin-Film-Pressure-Sensor-Module-Force-Sensitive-Resistor-Board-RFP602-1KG-2KG-5KG-Weighing-Voltage-Conversion-Module-i.425178766.43968062580?xptdk=3fe39e8b-087d-40ba-bc6d-d9debe90a973,1,$19.62,$19.62
+16 channel switcher,https://shopee.ph/CD74HC4067-16-Channel-Analog-Digital-Multiplexer-Breakout-Board-Module-For-Arduino-i.266699902.22751563093?xptdk=f2b7bf51-bd6a-4dc2-b9f7-2ef969651f4c,1,$1.07,$1.07
+SK-Mini-e,https://jlcpcb.com/parts/componentSearch?searchTxt=SK%20mini%20e,20,$0.09,$1.80
+C2912598,https://jlcpcb.com/partdetail/C2912598,5,$0.08,$0.40
+Resistor,https://jlcpcb.com/partdetail/RESI-PTFR0805B200RP9/C2849095,5,$0.07,$0.35
+Type C female,https://jlcpcb.com/parts/componentSearch?searchTxt=C2765186,1,$0.09,$0.09
+JLCPCB,JLCPCB,1,$9.50,$9.50
+10uf cap,https://www.digikey.ph/en/products/detail/samsung-electro-mechanics/CL21A106KAYNNNG/3894413?s=N4IgTCBcDaIMIBkwEYCCyAMA2A0qgmgHLEDiIAugL5A,10,$0.09,$0.89
+1uf capacitor,https://www.digikey.ph/en/products/detail/samsung-electro-mechanics/CL10A105KO8NNNC/3886692?s=N4IgTCBcDaIIxgOwDYC0cAMBmALO1AcgCIgC6AvkA,5,$0.10,$0.50
+10 ohm resistor,https://www.digikey.ph/en/products/detail/stackpole-electronics-inc/RNCP0603FTD10K0/2240139?s=N4IgTCBcDaIEoDkDCAFADANjQZgGIBUARARjQGk0l8BaBQkAXQF8g,10,$0.01,$0.12
+CAP CER 0.1UF 50V X7R 0603,https://www.digikey.ph/en/products/detail/samsung-electro-mechanics/CL10B104KB8NNNL/3894274?s=N4IgTCBcDaIIxgOwDYC0BhAMnADAIVwBYBpPADgDkrMAVAJVQoBEQBdAXyA,12,$0.03,$0.32
+4518-AMS1117-3.3TR-ND,https://www.digikey.ph/en/products/detail/umw/AMS1117-3-3/17635254?s=N4IgTCBcDaICwFYCMAOAtAQQLIGUn4HY0BmAOmIBUAlNAOQBEQBdAXyA,3,$0.30,$0.90
+399-C0603C220J5GAC7867TR-ND,https://www.digikey.ph/en/products/detail/kemet/C0603C220J5GACTU/411055?s=N4IgTCBcDaIMwE4EFoDCAGAbOuqxnQCkBWAcQEFUB2ADkyoBUAlZAOQBEQBdAXyA,3,$0.13,$0.39
+smd Buttons,https://www.digikey.ph/en/products/detail/c-k/PTS810SJG250SMTR-LFS/4176612?s=N4IgTCBcDaIMIGkByBGADAVjQFgCoCUBaJAERAF0BfIA,6,$0.60,$3.60
+Pwr led,https://www.digikey.ph/en/products/detail/liteon/LTST-C190TBKT/388529?s=N4IgTCBcDaIIwDYAMBaRAWBKwoHIBEQBdAXyA,2,$0.17,$0.34
+Soldering hot plate,https://shopee.ph/G3061-PD65W-Mini-Hot-Plate-Digital-Soldering-Preheating-Rework-Station-PCB-SMD-Board-Soldering-Plate-Heating-Table-i.1118934132.29593809780?xptdk=e92dc765-0a54-4d75-a41d-9a3069e98ccf,1,$11.46,$11.46
+,,,,
+,,,,TOTAL
+,,,,$61.56
