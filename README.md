@@ -1,13 +1,15 @@
 # OrphBeatPad - A custom/open source Beat pad with awesome design!
 ## V2 IS OUT!! 
 <img src = "Main/Zine/Orphpad Zine final (1).png">
-
+### PDF is available in Zine folder!
 
 #### I wanted to make an custom beat pad that you can plug in into your computer and its good to go!
 #### I would say the motivation was discovering FRS Sensors and bc i love hardware too much.
 #### It Exists since i want to get started with making MIDI Stuff and see how much it can cost!
 #### This project is basicaly a beat pad that can sense how hard are you tapping the pads and, BUT the most special part about this is it has integrated esp32-s3-wroom 1 🫣
 
+#### Notes:
+-The FSR Sensors Does not use a breakout board!
 ### Schematic
 
 #### New Schematic
