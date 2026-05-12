@@ -46,7 +46,7 @@
 ### a project thats been wating to be funded so it will relese soon!
 #### But don't worry i can give you a rough idea how to make it!
 
-- Step 1 Make sure all of your materials are ready such as (PCB, Stencil, Compoments, Hot Plate) if not don't worry as you can buy the compoments online from digikey and Jlcpcb! Check the BOM cause it has links!
+- Step 1 Make sure all of your materials are ready such as (PCB, Stencil, Compoments, Hot Plate, 3D printed Case) if not don't worry as you can buy the compoments online from digikey and Jlcpcb! Check the BOM cause it has links!
 
 - Step 2 Align the Stencil and spread solder Paste
 
@@ -54,7 +54,14 @@
 
 - Step 4 Reflow the board by making sure that the esp32 is in the middle! 
 
-- Step 5 Now the Reflow is done start adding the compoments that need manual hand soldering, such as: Sk-mini-e, 16 channel Swicher
+- Step 5 Now the Reflow is done start adding the compoments that need manual hand soldering, such as: Sk-mini-e, 16 channel Swicher, FSR sensor pads.
+
+- Step 6 Your PCB is assembled! Final step is to assemble with the case! To assemble the case (3 parts) get the bottom and middle super glue it, then after drying place the pcb inside, also make sure the external pins are cut with a flush cutter! Add the top case then superglue it or Use any M4 thread screw.
+
+- Final step is to Plug in the USB C cable and hope no smoke comes out.. If none good job! Flash it with the firmware i have provided :)
+
+- And thats your own OrphBeatpad! Enjoy tinkering with it!!
+
 
 ## Bill of materials
 ### check Bom.csv
