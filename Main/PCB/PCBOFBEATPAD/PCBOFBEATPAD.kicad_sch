@@ -5371,7 +5371,7 @@
 		(uuid "9db9ffe7-721b-4d5a-9899-8f39e15bcc11")
 	)
 	(junction
-		(at 397.51 238.76)
+		(at 397.51 242.57)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a3453ae9-3f33-4a73-9a54-f562e36885e6")
@@ -5503,7 +5503,7 @@
 		(uuid "f1470d22-8290-46ab-bd20-8cd8d4eefd74")
 	)
 	(junction
-		(at 382.27 238.76)
+		(at 382.27 242.57)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f4c1829c-92d5-4a35-80c3-6ab3f12dca74")
@@ -5790,7 +5790,7 @@
 	)
 	(wire
 		(pts
-			(xy 382.27 238.76) (xy 383.54 238.76)
+			(xy 382.27 242.57) (xy 383.54 242.57)
 		)
 		(stroke
 			(width 0)
@@ -6010,7 +6010,7 @@
 	)
 	(wire
 		(pts
-			(xy 393.7 236.22) (xy 397.51 236.22)
+			(xy 393.7 240.03) (xy 397.51 240.03)
 		)
 		(stroke
 			(width 0)
@@ -6270,7 +6270,7 @@
 	)
 	(wire
 		(pts
-			(xy 397.51 236.22) (xy 397.51 238.76)
+			(xy 397.51 240.03) (xy 397.51 242.57)
 		)
 		(stroke
 			(width 0)
@@ -6850,7 +6850,7 @@
 	)
 	(wire
 		(pts
-			(xy 397.51 238.76) (xy 398.78 238.76)
+			(xy 397.51 242.57) (xy 398.78 242.57)
 		)
 		(stroke
 			(width 0)
@@ -7010,7 +7010,7 @@
 	)
 	(wire
 		(pts
-			(xy 393.7 238.76) (xy 397.51 238.76)
+			(xy 393.7 242.57) (xy 397.51 242.57)
 		)
 		(stroke
 			(width 0)
@@ -7160,7 +7160,7 @@
 	)
 	(wire
 		(pts
-			(xy 398.78 238.76) (xy 398.78 240.03)
+			(xy 398.78 242.57) (xy 398.78 243.84)
 		)
 		(stroke
 			(width 0)
@@ -7300,7 +7300,7 @@
 	)
 	(wire
 		(pts
-			(xy 398.78 240.03) (xy 401.32 240.03)
+			(xy 398.78 243.84) (xy 401.32 243.84)
 		)
 		(stroke
 			(width 0)
@@ -7310,7 +7310,7 @@
 	)
 	(wire
 		(pts
-			(xy 382.27 236.22) (xy 382.27 238.76)
+			(xy 382.27 240.03) (xy 382.27 242.57)
 		)
 		(stroke
 			(width 0)
@@ -7320,7 +7320,7 @@
 	)
 	(wire
 		(pts
-			(xy 381 238.76) (xy 382.27 238.76)
+			(xy 381 242.57) (xy 382.27 242.57)
 		)
 		(stroke
 			(width 0)
@@ -7590,7 +7590,7 @@
 	)
 	(wire
 		(pts
-			(xy 383.54 236.22) (xy 382.27 236.22)
+			(xy 383.54 240.03) (xy 382.27 240.03)
 		)
 		(stroke
 			(width 0)
@@ -9281,7 +9281,7 @@
 	)
 	(global_label "SW_PUSH"
 		(shape input)
-		(at 381 238.76 180)
+		(at 381 242.57 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9291,7 +9291,7 @@
 		)
 		(uuid "d019a423-b79b-4d3d-a21f-6d253f355669")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 369.2458 238.76 0)
+			(at 369.2458 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13475,7 +13475,7 @@
 	)
 	(symbol
 		(lib_id "PTS810_SJM_250_SMTR_LFS:PTS810_SJM_250_SMTR_LFS")
-		(at 388.62 236.22 0)
+		(at 388.62 240.03 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13483,7 +13483,7 @@
 		(dnp no)
 		(uuid "8e88ba73-9ac3-4f3a-afca-5a78584d4612")
 		(property "Reference" "SW1"
-			(at 384.048 226.06 0)
+			(at 388.874 238.506 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13491,7 +13491,7 @@
 			)
 		)
 		(property "Value" "PTS810_SJM_250_SMTR_LFS"
-			(at 384.556 228.854 0)
+			(at 384.556 232.664 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13500,7 +13500,7 @@
 			)
 		)
 		(property "Footprint" "BUTTONS:SW_PTS810_SJM_250_SMTR_LFS"
-			(at 388.62 236.22 0)
+			(at 388.62 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13510,7 +13510,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 388.62 236.22 0)
+			(at 388.62 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13519,7 +13519,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 388.62 236.22 0)
+			(at 388.62 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13528,7 +13528,7 @@
 			)
 		)
 		(property "MF" "C&K"
-			(at 388.62 236.22 0)
+			(at 388.62 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13538,7 +13538,7 @@
 			)
 		)
 		(property "Description_1" "Tactile Switch SPST-NO Top Actuated Surface Mount"
-			(at 388.62 236.22 0)
+			(at 388.62 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13548,7 +13548,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 388.62 236.22 0)
+			(at 388.62 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13558,7 +13558,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 388.62 236.22 0)
+			(at 388.62 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13568,7 +13568,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/PTS810%20SJM%20250%20SMTR%20LFS/C%2526K/view-part/?ref=eda"
-			(at 388.62 236.22 0)
+			(at 388.62 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13578,7 +13578,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 388.62 236.22 0)
+			(at 388.62 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13588,7 +13588,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/PTS810%20SJM%20250%20SMTR%20LFS/C%2526K/view-part/?ref=snap"
-			(at 388.62 236.22 0)
+			(at 388.62 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13598,7 +13598,7 @@
 			)
 		)
 		(property "MP" "PTS810 SJM 250 SMTR LFS"
-			(at 388.62 236.22 0)
+			(at 388.62 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13608,7 +13608,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 388.62 236.22 0)
+			(at 388.62 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13618,7 +13618,7 @@
 			)
 		)
 		(property "MANUFACTURER" "CnK"
-			(at 388.62 236.22 0)
+			(at 388.62 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13930,7 +13930,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 401.32 240.03 0)
+		(at 401.32 243.84 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13939,7 +13939,7 @@
 		(fields_autoplaced yes)
 		(uuid "9c5e3c3f-811c-4381-9707-7198bbcb5365")
 		(property "Reference" "#PWR08"
-			(at 401.32 246.38 0)
+			(at 401.32 250.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13948,7 +13948,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 401.32 245.11 0)
+			(at 401.32 248.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13956,7 +13956,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 401.32 240.03 0)
+			(at 401.32 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13965,7 +13965,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 401.32 240.03 0)
+			(at 401.32 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13974,7 +13974,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 401.32 240.03 0)
+			(at 401.32 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
