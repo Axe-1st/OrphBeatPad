@@ -1,6 +1,6 @@
 # OrphBeatPad - A custom/open source Beat pad with awesome design!
 ## V2 IS OUT!! 
-<img src = "Main/Zine/Orphpad Zine final (1).png">
+<img src = "Main/Zine/Zine.png">
 - PDF is available in Zine folder!
 
 #### I wanted to make an custom beat pad that you can plug in into your computer and its good to go!
