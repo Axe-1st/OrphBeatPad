@@ -18473,7 +18473,7 @@
 		(uuid "a10cf35f-19fe-45e2-a428-0085881c4231")
 		(at 159.567498 55.53)
 		(property "Reference" "U12"
-			(at -6.575 -14.135 0)
+			(at -2.167498 -3.13 0)
 			(layer "F.SilkS")
 			(uuid "15b0d3c5-dff0-4633-9f02-1afe2aa77e2b")
 			(effects
@@ -29461,6 +29461,17 @@
 			(uuid "708ec5a2-3547-40df-933c-7f42e9c3a0b2")
 		)
 		(embedded_fonts no)
+		(model "/home/axe-flores/Downloads/1-47-tft-ips-module-st7789-1.snapshot.2/1.47 - IPS LCD - ST7789 - Module.stp"
+			(offset
+				(xyz 0.5 13.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -180)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "F.Cu")
