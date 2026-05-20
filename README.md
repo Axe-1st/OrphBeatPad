@@ -29,7 +29,7 @@
 ### "pcb render"
 
 #### New Version
-<img width="662" height="586" alt="image" src="https://github.com/user-attachments/assets/3c47f53e-e7d8-4cb5-95c0-05ff7a47f48c" />
+<img width="705" height="571" alt="image" src="https://github.com/user-attachments/assets/eefee377-17e4-4265-a114-f124c6fc0c2b" />
 <img width="662" height="586" alt="image" src="https://github.com/user-attachments/assets/eca2f6a5-ba23-44d6-957e-c0a011b33e23" />
 
 - couldn't find a FSR sensor thats bent sorry!
