@@ -1,7 +1,8 @@
 # OrphBeatPad - A custom/open source Beat pad with awesome design!
 ## V2 IS OUT!! 
 <img src = "Main/Zine/Zine.png">
-- PDF is available in Zine folder!
+
+> PDF is available in Zine folder!
 
 #### I wanted to make an custom beat pad that you can plug in into your computer and its good to go!
 #### I would say the motivation was discovering FRS Sensors and bc i love hardware too much.
@@ -10,6 +11,7 @@
 
 #### Notes:
 - The FSR Sensors Does not use a breakout board!
+- There are Silicon pads that i will have to invividualy place to act as buttons!
 - we will be ussing flush cutters so we can fit things nicely!
 - We will use a combination of reflow and manual soldering.
 
@@ -57,6 +59,8 @@
 - Step 5 Now the Reflow is done start adding the compoments that need manual hand soldering, such as: Sk-mini-e, 16 channel Swicher, FSR sensor pads.
 
 - Step 6 Your PCB is assembled! Final step is to assemble with the case! To assemble the case (3 parts) get the bottom and middle super glue it, then after drying place the pcb inside, also make sure the external pins are cut with a flush cutter! Add the top case then superglue it or Use any M4 thread screw.
+
+- Step 7 Cut the Silicon Sheet into squares boxes then place it where the FSR Sensor holes are!
 
 - Final step is to Plug in the USB C cable and hope no smoke comes out.. If none good job! Flash it with the firmware i have provided :)
 
